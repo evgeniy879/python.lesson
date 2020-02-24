@@ -29,4 +29,3 @@ if password != client_password:
             print('верный пароль')
         if password != client_secret_word:
             print('неверный пароль')
-

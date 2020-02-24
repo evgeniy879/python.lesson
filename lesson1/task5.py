@@ -1,7 +1,6 @@
 cost = int(input('введите сумму издержек '))
 revenues = int(input('введите сумму выручки '))
 profit = revenues - cost
-
 if profit > 0:
     print(f'прибыль фирмы составила {profit}')
     profitability = profit / revenues
