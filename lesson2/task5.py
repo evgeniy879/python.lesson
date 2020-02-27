@@ -1,5 +1,6 @@
 my_list = [7, 5, 3, 3, 2]
 number = int(input())
+
 if number in my_list:
     index = my_list.index(number)
     my_list.insert(index, number)

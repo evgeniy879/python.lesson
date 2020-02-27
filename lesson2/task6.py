@@ -1,6 +1,7 @@
 new_list= []
 var_bool = True
 counter = 1
+
 while var_bool:
     goods = {'название': [], 'цена': [], 'количество': [], 'eд': []}
     for i in goods:
